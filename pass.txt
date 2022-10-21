@@ -1,0 +1,13 @@
+username= ghfgfjdj
+password= gdgdjg
+mobile_number= 2
+
+otp= 
+
+otp= 
+
+otp= -1
+
+acount_holder_name= fygggg
+date_of_birth= 2332-02-11
+
